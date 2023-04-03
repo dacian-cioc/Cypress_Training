@@ -1,6 +1,6 @@
 node_modules
 package-lock.json
 package.json
-screenshots
-videos
-reports\html
+*.jpg
+*.mp4
+*.html
